@@ -1,0 +1,66 @@
+[
+    {
+        "id":"1",
+        "title":"Phuket",
+        "location":"Thailand",
+        "price":" $ 40",
+        "Images": "/Images/tour-image-01.webp",
+        "mainImage":"/Images/our-image-01-1.avif"
+    },
+    {
+        "id":"2",
+        "title":"Kelingking",
+        "location":"Indonesia",
+        "price":" $ 20",
+        "Images": "/Images/tour-image-02.webp",
+        "mainImage":"/Images/our-image-02-1.jpg"
+    },
+    {
+        "id":"3",
+        "title":"Phuket",
+        "location":"Thailand",
+        "price":" $ 35",
+        "Images": "/Images/tour-image-03.webp",
+        "mainImage":"/Images/our-image-03-1.avif"
+    },
+    {
+        "id":"4",
+        "title":"Old Bagan",
+        "location":"Myanmar",
+        "price":" $ 18",
+        "Images": "/Images/tour-image-04.webp",
+        "mainImage":"/Images/our-image-04-1.avif"
+    },
+    {
+        "id":"5",
+        "title":"Ubud",
+        "location":"Indonesia",
+        "price":" $ 40",
+        "Images": "/Images/tour-image-05.webp",
+        "mainImage":"/Images/our-image-05-1.avif"
+    },
+    {
+        "id":"6",
+        "title":"Marina Bay",
+        "location":"Singapore",
+        "price":" $ 24",
+        "Images": "/Images/tour-image-06.webp",
+        "mainImage":"/Images/our-image-06-1.avif"
+    },
+    {
+        "id":"7",
+        "title":"Mt.Fuji",
+        "location":"Japan",
+        "price":" $ 48",
+        "Images": "/Images/tour-image-07.webp",
+        "mainImage":"/Images/our-image-07-1.avif"
+    },
+    {
+        "id":"8",
+        "title":"Padar Island",
+        "location":"Indonesia",
+        "price":" $ 40",
+        "Images": "/Images/tour-image-08.webp",
+        "mainImage":"/Images/our-image-08-1.avif"
+    }
+]
