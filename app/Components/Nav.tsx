@@ -90,9 +90,9 @@ export default function Nav() {
 
         {/* Desktop Menu */}
         <ul className="nav-menu hidden lg:flex w-full justify-center items-center gap-14 py-5 relative">
-          <li><Link href="/" className="active font-[500] hover:text-black transition-colors duration-500">Home</Link></li>
-          <li><Link href="/About" className="active font-[500] hover:text-black transition-colors duration-500">About</Link></li>
-          <li><Link href="/Tour" className="active font-[500] hover:text-black transition-colors duration-500">Tour</Link></li>
+          <li><Link href="/" className=" font-[500] hover:text-black transition-colors duration-500">Home</Link></li>
+          <li><Link href="/About" className=" font-[500] hover:text-black transition-colors duration-500">About</Link></li>
+          <li><Link href="/Tour" className=" font-[500] hover:text-black transition-colors duration-500">Tour</Link></li>
           
           <div className="logo text-3xl uppercase font-semibold">
             <Link href="/" className="unbounded-font">
@@ -100,9 +100,9 @@ export default function Nav() {
             </Link>
           </div>
 
-          <li><Link href="/Faq" className="active font-[500] hover:text-black transition-colors duration-500">Faq</Link></li>
-          <li><Link href="/Blog" className="active font-[500] hover:text-black transition-colors duration-500">Blog</Link></li>
-          <li><Link href="/Contact" className="active font-[500] hover:text-black transition-colors duration-500">Contact</Link></li>
+          <li><Link href="/Faq" className="font-[500] hover:text-black transition-colors duration-500">Faq</Link></li>
+          <li><Link href="/Blog" className=" font-[500] hover:text-black transition-colors duration-500">Blog</Link></li>
+          <li><Link href="/Contact" className=" font-[500] hover:text-black transition-colors duration-500">Contact</Link></li>
         </ul>
 
         {/* Mobile Toggle */}
